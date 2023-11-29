@@ -17,7 +17,7 @@ namespace labrabfive
             double x = double.Parse(Console.ReadLine());
             S = 0;
             N = 0;
-            A = x;
+            A = x/4;
             do
             {
                 S += A;
